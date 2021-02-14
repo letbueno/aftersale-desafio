@@ -1,4 +1,4 @@
-<h1 align="center">:rocket: Desafio para estágio da Aftersale :rocket:</h1>
+<h1 align="center">:rocket: Desafio para Estágio em Desenvolvimento Front-End da aftersale :rocket:</h1>
 
 A proposta deste desafio é para participar da seleção de estágio em desenvolvimento front-end da aftersale. Consistia em fazer uma página web que contém um prédio com 12 janelas, quando o usuário clicar em uma janela, a luz deve acender ou apagar. Além disso, implementar um botão de controle global, que quando o usuário clicar neste botão de controle global, a luz de todas as janelas devem acender ou apagar. E também era necessário solicitar as coordenadas do usuário para definir a cena (dia ou noite) conforme o horário local das coordenadas. 
 
